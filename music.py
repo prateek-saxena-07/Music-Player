@@ -10,7 +10,7 @@ root =Tk()
 root.title('VRyThM')
 
 #icon
-photo=PhotoImage(file="C:/Users/prateek/Desktop/music player/icon.png")
+photo=PhotoImage(file="img.png")
 root.iconphoto(False,photo)
 
 
